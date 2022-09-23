@@ -1,4 +1,5 @@
-# Using the app from Module 4, build a React Native mobile app that achieves the following functionality:
+# Build intelligence into your app and focus on one of the following aspects to help the user achieve a goal of your app: Camera Vision, Location Services, NFC, Voice, or any other.
 
-Allows users to register an account, and then log in to the app’s dashboard with a Firebase.
-Read data from a dataset for a feature on the app.
+ 
+
+Submission of source code and app (.e.g. APK) file through Github. Indicate the function of the readme file.
